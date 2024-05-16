@@ -1,6 +1,6 @@
 # Simple Bank CLI
 
-## Run the following commands in Linux
+## Run the following commands in Linux/ WSL
 ### To make the file executable
 ```
 chmod +x ./make
